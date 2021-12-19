@@ -1,1 +1,1 @@
-# Day-7-of-100-days-of-python-
+# Day-7-of-100-days-of-python
